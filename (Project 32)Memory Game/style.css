@@ -1,0 +1,11 @@
+body {
+  background-color: grey;
+}
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  width: 400px;
+  height: 300px;
+  text-align: center;
+  justify-content: center;
+}
